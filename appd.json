@@ -4,8 +4,8 @@
 [
 
 {"id":0,"file":0,"city":"153.145.148.222","country":"Japan","image":"japan","ip":"153.145.148.222","active":"true","signal":"a"},
-{"id":1,"file":1,"city":"172.119.125.80","country":"United States","image":"unitedstates","ip":"172.119.125.80","active":"true","signal":"a"},
-{"id":2,"file":2,"city":"198.27.183.33","country":"United States","image":"unitedstates","ip":"198.27.183.33","active":"true","signal":"a"},
+{"id":1,"file":1,"city":"195.123.242.216 25000","country":"United States","image":"unitedstates","ip":"195.123.242.216 25000","active":"true","signal":"a"},
+{"id":2,"file":2,"city":"195.123.242.216 1194","country":"United States","image":"unitedstates","ip":"195.123.242.216 1194","active":"true","signal":"a"},
 {"id":3,"file":3,"city":"80.246.28.38","country":"United States","image":"unitedstates","ip":"80.246.28.38","active":"true","signal":"a"}
 
 ]}
